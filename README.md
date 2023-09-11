@@ -29,7 +29,7 @@ export default {
   plugins: [],
 };
 ```
-
+<!-- 
 - remove App.css
 - delete contents of index.css
 - delete contents of App.jsx
@@ -331,4 +331,4 @@ export default ProjectsCard;
 
 #### Extra Challenge
 
-- setup projects in CMS
+- setup projects in CMS -->
